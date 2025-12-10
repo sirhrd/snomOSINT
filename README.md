@@ -2,10 +2,14 @@
 مكاتب الاداة:
 
 python
+
 requests
+
 beautifulsoup4
+
 instaloader
 
 
 لتثبيت الاداة:
+
 git clone https://github.com/sirhrd/snomOSINT.git
